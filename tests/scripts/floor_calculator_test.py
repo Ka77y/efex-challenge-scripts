@@ -1,5 +1,5 @@
 import unittest
-from src.floor_calculator import floor
+from src.scripts.floor_calculator import floor
 
 
 class FloorCalculatorTest(unittest.TestCase):
